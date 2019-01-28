@@ -1,0 +1,10 @@
+# Maven
+/target/
+
+# MRS08 Custom
+.DS_Store
+Thumbs.db
+
+/.idea/
+*.iml
+dependency-reduced-pom.xml
